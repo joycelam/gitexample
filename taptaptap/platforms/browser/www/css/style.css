@@ -1,0 +1,21 @@
+div.touch{
+	background:#06cdfa;
+	padding:100px;
+	margin: 100px auto;
+	color:#fff;
+	border-radius: 200px;
+	text-transform: uppercase;
+	opacity: 0.5;
+	text-align: center;
+	width: 100px;
+	height:100px;
+	font-size: 35px;
+}
+
+div.yes{
+	background: #32c155;
+}
+
+div.no{
+	background: #e10f0f;
+}
